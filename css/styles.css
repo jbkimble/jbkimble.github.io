@@ -1,0 +1,88 @@
+#kitten {
+  height: 100px;
+}
+
+#site-title {
+  color:blue;
+
+}
+
+#bar1 {
+  background-color: blue;
+  height:200px;
+  margin-top:300px;
+}
+
+#contact-me {
+  background-color: blue;
+  height:200px;
+  margin-top:300px;
+  text-align: center;
+}
+
+#blog-section {
+    text-align: center;
+    height: 300px;
+    font-family: Verdana;
+}
+
+hr {
+  width:300px;
+  color:blue;
+  size: 10px;
+}
+a:link {
+  color:blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color:blue;
+  text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 0, 153);
+}
+
+img {
+  height:170px;
+  margin-left:100px;
+  margin-top: 20px;
+
+}
+#aboutme {
+  color:white;
+  font-family: sans-serif;
+  margin: 50px;
+  font-size: 24px;
+  padding-top: 60px;
+  text-align: center;
+  vertical-align: middle;
+}
+body{
+  background-image: url("https://static.pexels.com/photos/7320/sea-ocean-sailing-ship-boat.jpg");
+  margin:0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+ul {
+  list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: white;
+}
+
+li {
+  float: left;
+  font-family:"helvetica"
+}
+
+li a {
+    display: inline-block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
